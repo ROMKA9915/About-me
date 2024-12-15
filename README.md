@@ -16,4 +16,3 @@
            margin-right: auto;
            width: 60%;"
 src="img\Android_robot_head.png">
-</img>
